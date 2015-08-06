@@ -1,0 +1,11 @@
+*.htaccess
+*.html
+Network1/socialnetworkcode/extra_files/post_comments.sql
+*.sql
+Network1/socialnetworkcode/js/main.js
+*.php
+Network1/socialnetworkcode/img/find_friends_logo.png
+*.jpg
+Network1.zip
+*.txt
+*.png
